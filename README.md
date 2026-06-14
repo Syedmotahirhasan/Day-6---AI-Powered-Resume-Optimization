@@ -88,3 +88,18 @@ Python, SQL, Power BI at a glance
 | Job Ready | No ❌ | Yes ✅ |
 
 ---
+
+## Key Learnings
+- Two-column resume confuses ATS systems
+- Numbers and metrics matter enormously
+- Keywords must match job descriptions exactly
+- Action verbs make huge difference
+- Claude can optimize resume in seconds!
+- ATS filters 75% resumes before human review
+
+## Biggest Insight
+My resume went from 35/100 to 82/100
+just by using the right Claude prompt!
+AI tools like Claude can save months of 
+career coaching in just a few minutes.
+
