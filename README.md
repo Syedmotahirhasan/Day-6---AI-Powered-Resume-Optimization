@@ -16,6 +16,8 @@ gave me a complete ATS score breakdown.
 ---
 
 ## My Original Resume — ATS Analysis
+<img width="652" height="817" alt="image" src="https://github.com/user-attachments/assets/924d713a-2111-4530-b33d-9a800f113473" />
+
 
 | Area | Score | Issue |
 |------|-------|-------|
@@ -76,6 +78,8 @@ Python, SQL, Power BI at a glance
 ---
 
 ## Before vs After Comparison
+<img width="626" height="806" alt="image" src="https://github.com/user-attachments/assets/53a686f7-8a7b-40ec-abc6-f5801d74e85f" />
+
 
 | Feature | Before | After |
 |---------|--------|-------|
